@@ -1,0 +1,2 @@
+# skeleton
+Skeleton JSF / Java
